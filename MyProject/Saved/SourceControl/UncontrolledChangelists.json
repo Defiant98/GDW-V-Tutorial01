@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Git/Repos UE5 2025/GDW-V-Tutorial01/MyProject/Content/Blueprints/BP_FPCharacter.uasset",
+				"E:/Git/Repos UE5 2025/GDW-V-Tutorial01/MyProject/Content/Framework/BP_GameMode.uasset",
+				"E:/Git/Repos UE5 2025/GDW-V-Tutorial01/MyProject/Content/Blueprints/Character/BP_FPCharacter.uasset",
+				"E:/Git/Repos UE5 2025/GDW-V-Tutorial01/MyProject/Content/Blueprints/Character/IMC_Default.uasset",
+				"E:/Git/Repos UE5 2025/GDW-V-Tutorial01/MyProject/Content/Blueprints/Character/InputActions/IA_Jump.uasset",
+				"E:/Git/Repos UE5 2025/GDW-V-Tutorial01/MyProject/Content/Blueprints/Character/InputActions/IA_Move.uasset",
+				"E:/Git/Repos UE5 2025/GDW-V-Tutorial01/MyProject/Content/Blueprints/Character/InputActions/IA_Look.uasset",
+				"E:/Git/Repos UE5 2025/GDW-V-Tutorial01/MyProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/12/ZNK5ID1795O0F4ZYBNFPXM.uasset"
+			]
+		}
+	]
+}
